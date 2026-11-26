@@ -15,8 +15,9 @@
     "csv"
   ],
   "license": "MIT",
-  "author": "ckgiri",
-  "homepage": "https://github.com/ckgiri/xlsxport#readme",
+  "author": "CK Giri <ckgdev@gmail.com>",
+  "funding": "https://github.com/ckgiri/xlsxport?sponsor=1",
+  "homepage": "https://github.com/ckgiri/xlsxport",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ckgiri/xlsxport.git"
