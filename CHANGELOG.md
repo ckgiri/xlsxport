@@ -2,7 +2,7 @@
 
 All notable changes to this package are documented here. This project follows [Semantic Versioning](https://semver.org/).
 
-## 1.0.1 - Unreleased
+## 1.1.0 - Unreleased
 
 Documentation only. No code or behavior changes.
 
