@@ -1,6 +1,6 @@
 {
   "name": "xlsxport",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Export JSON to a real Excel .xlsx file in one call. Auto columns, widths, dates, number formats, links, formulas, multiple sheets. Zero dependencies, runs everywhere.",
   "keywords": [
     "excel",

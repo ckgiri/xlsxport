@@ -2,12 +2,13 @@
 
 All notable changes to this package are documented here. This project follows [Semantic Versioning](https://semver.org/).
 
-## 1.1.0 - Unreleased
+## 1.2.0 - Unreleased
 
 Documentation only. No code or behavior changes.
 
 - Rewrote the README: plain wording, a full API reference with options tables, and examples that are checked against the build.
 - Fixed type doc comments shown in editors: the `header` default, formula cells and the uncompressed fallback are described correctly.
+- Package metadata: author, funding link, homepage, repository and issue tracker in `package.json`, and the copyright holder in `LICENSE`.
 
 ## 1.0.0 - 2026-11-24
 
